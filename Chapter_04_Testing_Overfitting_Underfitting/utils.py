@@ -56,3 +56,4 @@ def plot_polynomial_regression(model, X, Y, degree, X_test=None, Y_test=None):
     plt.ylim(np.min(Y), np.max(Y))
 
     plt.show()
+    
