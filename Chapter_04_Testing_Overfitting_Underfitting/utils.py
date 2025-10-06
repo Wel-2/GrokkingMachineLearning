@@ -27,7 +27,7 @@ def plot_polynomial_regression(model, X, Y, degree, X_test=None, Y_test=None):
 
     # Generate predicted values for plotting the curve
     X_plot = np.linspace(np.min(X), np.max(X), 100).reshape(-1, 1)
-    poly = PolynomialFeatures(degree=degree)
+    poly = PolynomialFeatures(degree=degree, include_bias=False)
     X_plot_poly = poly.fit_transform(X_plot) # Fit on plot data range
 
     Y_plot_poly = model.predict(X_plot_poly)
