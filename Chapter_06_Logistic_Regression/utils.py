@@ -23,9 +23,9 @@ def plot_points(features, labels):
     plt.xlabel('aack')
     plt.ylabel('beep')
     plt.legend(['happy','sad'])
-    
+        
 def draw_line(a,b,c, color='black', linewidth=2.0, linestyle='solid', starting=0, ending=3):
-    # Plotting the line ax + by + c = 0
+#    # Plotting the line ax + by + c = 0
     x = np.linspace(starting, ending, 1000)
     plt.plot(x, -c/b - a*x/b, linestyle=linestyle, color=color, linewidth=linewidth)
     
