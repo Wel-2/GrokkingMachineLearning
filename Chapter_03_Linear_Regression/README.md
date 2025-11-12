@@ -14,6 +14,6 @@ As for now, you can find the new labs (using scikit-learn) with the prefix _Upda
 | `UPDATED_Coding_linear_regression.ipynb` | Coding Linear Regression (New, in scikit-learn) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/luisguiserrano/manning/blob/master/Chapter_03_Linear_Regression/UPDATED_Coding_linear_regression.ipynb) |
 | `UPDATED_House_price_predictions.ipynb` | Coding Linear Regression (New, in scikit-learn) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/luisguiserrano/manning/blob/master/Chapter_03_Linear_Regression/UPDATED_House_price_predictions.ipynb) |
 | `Coding_linear_regression.ipynb` | Coding Linear Regression (Soon to be deprecated)| Not available (please clone repo) |
-| `UPDATED_House_price_predictions.ipynb` | Coding Linear Regression (Soon to be deprecated) | Not available (please clone repo) |
+| `House_price_predictions.ipynb` | Coding Linear Regression (Soon to be deprecated) | Not available (please clone repo) |
 
 > ✅ *Tip:* Click any “Open in Colab” button to launch the lab in Google Colab. From there, you can run the notebook in the cloud, make edits, and save your changes back to your own Drive.
