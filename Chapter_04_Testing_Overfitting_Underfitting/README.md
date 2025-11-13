@@ -11,7 +11,7 @@ As for now, you can find the new labs (using scikit-learn) with the prefix _Upda
 
 | Lab | Description | Open in Google Colab |
 |-----|-------------|----------------------|
-| `UPDATED_Polynomial_regression_regularization.ipynb` | Polynomial Regression Regularization (New, in scikit-learn) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/luisguiserrano/manning/blob/master/Chapter_04_Testing_Overfitting_Underfitting/UPDATED_Polynomial_regression_regularization.ipynb) |
-| `UPDATED_Polynomial_regression_regularization.ipynb` | Polynomial Regression Regularization (Soon to be deprecated) | Not available (please clone repo) |
+| `Polynomial_regression_regularization.ipynb` | Polynomial Regression Regularization (New, in scikit-learn) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/luisguiserrano/manning/blob/master/Chapter_04_Testing_Overfitting_Underfitting/Polynomial_regression_regularization.ipynb) |
+| `DEPRECATED_Polynomial_regression_regularization.ipynb` | Polynomial Regression Regularization (Soon to be deprecated) | Not available (please clone repo) |
 
 > ✅ *Tip:* Click any “Open in Colab” button to launch the lab in Google Colab. From there, you can run the notebook in the cloud, make edits, and save your changes back to your own Drive.
